@@ -1715,7 +1715,7 @@ input, select, textarea {
 		input[type="reset"].large,
 		button.large,
 		.button.large {
-			font-size: 1.5em;
+			font-size: 1em;
 			letter-spacing: -0.025em;
 		}
 
